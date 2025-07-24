@@ -22,7 +22,7 @@ NAT to Internet Still Incomplete: Although NAT rules were added, I haven’t com
 ## 📸 Screenshot
 ![Network Diagram] <img width="956" height="472" alt="image" src="https://github.com/user-attachments/assets/7fb30d60-df26-4693-b38e-f4ec9a4d18b4" />
 ## 📂 Files Included
-- `network-assignment.pkt` – the full Packet Tracer simulation file
+- `Cisco Network Simulation Assignment.pkt` – the full Packet Tracer simulation file
 - `<img width="956" height="472" alt="image" src="https://github.com/user-attachments/assets/7fb30d60-df26-4693-b38e-f4ec9a4d18b4" />` – screenshot of the topology
 - `README.md` – this documentation
   ## 🧠 Next Steps
